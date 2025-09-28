@@ -1,11 +1,12 @@
-## Hi there 👋
 
+## Heyyy
+I'm a passionate back-end engineer who loves computer networking and crafting robust software solutions. I enjoy solving complex problems and building systems that are both efficient and scalable.
 <!--
 **Madhan3009/Madhan3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on enhancing my skills 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
